@@ -23,7 +23,7 @@
   - Consumação
   - Negócio Jurídico
   - Sujeito ativo e passivo 
-  - Tentavia 
+  - Tentativa
   - Diferença de Roubo próprio pra roubo improprio 
 - Relações com usuarios de drogas 
 - Consideraçôes Finais
