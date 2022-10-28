@@ -13,9 +13,10 @@
   - Sujeito ativo e passivo
   - Tentavia
   - Furto qualificado
-  - Furto Pivilegiado
+  - Furto Privilegiado
   - Furto noturno
   - Furto Comum
+  - Furto Famelico
   - OBS: talvez mudar a ordem dos tipos de furtos
 - Roubo
   - Conceito
