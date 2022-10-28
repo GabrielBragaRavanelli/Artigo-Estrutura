@@ -25,9 +25,10 @@
   - Sujeito ativo e passivo 
   - Tentativa
   - Diferença de Roubo próprio pra roubo improprio 
-- Relações com usuarios de drogas 
+- Drogas
+  - Drogas e Usuário
+- RELAÇÃO DOS CRIMES DE FURTO E ROUBO COM OS USUÁRIOS DE DROGAS
 - Consideraçôes Finais
 - Refêrencias 
-
 
 - TUDO ESTÁ SUJEITO A MUDANÇAS
